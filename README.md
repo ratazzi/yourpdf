@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/type-issue_tracker-orange" alt="Repo Type">
 </p>
 
-This repository serves as an issue tracker for YourPDF, a free browser-based PDF manipulation tool. The source code of YourPDF is not publicly available; this repository is solely for reporting bugs, suggesting features, and providing feedback.
+This repository serves as an issue tracker for YourPDF, a free browser-based PDF manipulation tool. Here you can report bugs, suggest features, and provide feedback to help improve the application.
 
 ## 🌐 About YourPDF
 
@@ -71,7 +71,3 @@ YourPDF uses client-side JavaScript libraries to manipulate PDF files directly i
 2. **Browser Processing**: All PDF manipulation happens within the browser
 3. **Local Results**: Processed PDFs are saved directly to the user's device
 4. **No Server Uploads**: Files never leave the user's browser, ensuring complete privacy
-
-## ⚠️ Note
-
-This is not the source code repository for YourPDF. The application is not open-source, and pull requests to this repository will not be accepted unless they are related to improving the issue templates or documentation.
